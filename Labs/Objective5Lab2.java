@@ -16,8 +16,7 @@ public class Objective5Lab2 {
     else {
       System.out.println(string1 + " is not equivalent to " + string3);
     }
-    /*
-      Your solution goes here
-    */
+
   }
+
 }
